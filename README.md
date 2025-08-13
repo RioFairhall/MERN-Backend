@@ -2,7 +2,7 @@
 
 ### Getting Started
 ```bash
-git clone <repo-url>
+git clone https://github.com/RioFairhall/MERN-Backend.git
 cd mern-backend
 npm install
 cp .env.example .env
